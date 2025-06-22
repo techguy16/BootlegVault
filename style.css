@@ -46,11 +46,11 @@
   --theme-transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
   --dark-gradient: linear-gradient(
     135deg,
-    #1a0b2e 0%,
-    #2d1b4e 25%,
-    #432870 50%,
-    #5a3d8c 75%,
-    #6b4a9e 100%
+    #0b192e 0%,
+    #1b354e 25%,
+    #284670 50%,
+    #3d628c 75%,
+    #4a679e 100%
   );
   --light-gradient: linear-gradient(
     135deg,
